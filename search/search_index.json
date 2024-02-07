@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-,:!=\\[\\]()\"`/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Example","text":"<p>I followed Dan's tutorial!</p>"},{"location":"#example_1","title":"Example","text":"<pre><code>print(\"Dan is smelly\")\n</code></pre>"}]}
