@@ -1,8 +1,8 @@
 # Example
-Showing how to build docs.
+I followed Dan's tutorial!
 
 ## Example
 
 ```python
-print("hello world")
+print("Dan is smelly")
 ```
